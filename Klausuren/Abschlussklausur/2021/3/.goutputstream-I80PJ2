@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include "sll.h"
+
+
+int main(int argc, char* argv[]) {
+    
+    node_t* list = NULL;
+    node_t* list2 = NULL;
+    node_t* list3 = NULL;
+    
+    list = malloc(sizeof(node_t));
+    list2 = malloc(sizeof(node_t));
+    list3 = malloc(sizeof(node_t));
+    list->x = 4;
+    list->next = list2;
+    list2->x = 3;
+    list2->next = list3;
+    list3->x = 48;
+    
+    
+    
+
+    add_Element(&first_node, 7);    
+
+   
+
+
+
+}

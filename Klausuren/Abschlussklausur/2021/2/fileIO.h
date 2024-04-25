@@ -1,0 +1,4 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void getAB(int *a, int *b);

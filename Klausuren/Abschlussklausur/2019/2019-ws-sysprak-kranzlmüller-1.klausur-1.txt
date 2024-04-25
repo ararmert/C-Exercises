@@ -1,0 +1,9 @@
+SysPrak Abschlussprüfung WS19/20 – Gedächtnssprotokoll
+
+Aufgabe 1: Man soll eine Funktion erstellen die einen int-Wert bekommt und daraus dann die Fibonacci Zahlen berechnet, welche in einem int *arr Feld gespeichert werden sollen. int *arr soll dabei genau so groß sein, wie die Anzahl der darin gespeicherten Fibonacci Zahlen.
+
+Aufgabe 2: Gegeben war eine File-Deskriptor fd[2] und eine Datei main.c. In main.c wurden mit fork() zwei Prozesse erstellt. Nun musste man eine Methode implementieren, die vor fork() aufgerufen wird und einen String bekommt. In der Methode soll dann eine Pipe erstellt werden und eine weitere Methode toUpperChar() aufgerufen werden. toUpperChar() soll alle Buchstaben des übergebenen Strings in Großbuchstaben umwandeln. Anschließend soll der neue Großbuchstabenstring in die Pipe geschrieben werden. 
+
+Aufgabe 3: Signalhandler implementieren.
+
+Aufgbae 4: Verbindung mit Server aufbauen, eine Nachricht empfangen und wieder zurückschicken (s. Altklausur 2017 Aufgabe 4)

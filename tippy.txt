@@ -1,0 +1,44 @@
+nano or a basic editor
+like kate
+no syntax highlighting
+manpage!
+z.B
+man getaddrinfo:
+socket
+connect to socket
+message
+
+man getopt:
+man getaddrinfo
+man pipe
+
+
+
+makefile 
+pointer önemli
+array generirieren& fillen
+arry saveleme memset 
+find min/max of array sorrting array
+allocate space 
+shared memory
+pipe
+signal gönderme alma signal handler
+socket
+file open and read from it
+crate a file 
+fork
+fd_open
+fgets
+meilensteine
+create pipe send a message over it
+fibonacci
+kill
+sigkill
+
+
+signal(SIGUR1, handler)
+signal handler
+
+yazdigin bütün kodu bilmen lazim meilensteine
+
+malloc kullandiktan sonra free() yazmayi unutma!!!

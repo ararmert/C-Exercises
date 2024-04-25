@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include "fileIO.h"
+
+int main(int argc, char* argv[]) {
+
+	int a;
+	int b;
+	
+	getAB(&a,&b);
+	printf("%d\n", a);
+	printf("%d\n", b);
+}
+
+
